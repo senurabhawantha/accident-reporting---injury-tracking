@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "986682692363",
+    "project_id": "careu-fbc95",
+    "storage_bucket": "careu-fbc95.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986682692363:android:4cc5282e271c67210a880e",
+        "android_client_info": {
+          "package_name": "com.example.cm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC23nMvqSmUnpUCCmLJwoTYs94s10Mqkjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
