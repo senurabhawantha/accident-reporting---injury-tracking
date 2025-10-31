@@ -32,42 +32,6 @@ ClaimMate is a mobile and AI-powered system that helps users report vehicle acci
 
 ---
 
-## 🧩 Project Structure
-
-```
-ClaimMateApp/
-├── cm/                   # Flutter mobile app
-│   └── lib/              # UI pages, components, services
-└── injury_tracker/       # Backend (FastAPI + ML)
-    ├── main.py           # FastAPI app
-    ├── ml_model.py       # ML model loader
-    ├── encryption.py     # Image hashing & encryption
-    ├── firebase_service.py # Firebase Admin SDK
-    └── azure_openai_service.py # First aid generation
-```
-
----
-
-## 🚀 How to Run
-
-### 1. Flutter App
-```bash
-cd ClaimMateApp/cm
-flutter pub get
-flutter run
-```
-
-### 2. Backend Server
-```bash
-cd ClaimMateApp/injury_tracker
-pip install -r requirements.txt
-uvicorn main:app --reload
-```
-
-Then open **http://127.0.0.1:8000/docs** to test the API.
-
----
-
 ## 👨‍💻 Developer
 **R.L.A. Senura Bhawantha**  
 National Institute of Business Management (NIBM)  
