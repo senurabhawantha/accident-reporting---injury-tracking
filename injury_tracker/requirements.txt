@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pillow
+tensorflow
+numpy
+opencv-python
+firebase-admin
+cryptography
+python-dotenv
+openai
+pydantic
+aiofiles
+scikit-learn
