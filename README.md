@@ -36,7 +36,6 @@ ClaimMate is a mobile and AI-powered system that helps users report vehicle acci
 **R.L.A. Senura Bhawantha**  
 National Institute of Business Management (NIBM)  
 Coventry University Collaboration  
-📧 senurabawantha@gmail.com
 
 ---
 
